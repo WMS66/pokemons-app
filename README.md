@@ -1,4 +1,12 @@
-# StudyApp
+# Pokemons-app
+
+<hr>
+
+## Project under development for training on learning acquired in college.
+
+## Any help is welcome!
+
+<hr>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
