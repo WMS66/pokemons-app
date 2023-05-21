@@ -9,5 +9,5 @@ type Tabs = 'tab-pokemons' | 'tab-favoritos'
 export class LayoutComponent {
     public currentTab: Tabs = 'tab-pokemons'
 
-    public pokemons: any[] = new Array(1011) //total de 1010 19-05-23
+    public pokemons: any[] = new Array(201) //total de 1010 pokemons 19-05-23
 }
